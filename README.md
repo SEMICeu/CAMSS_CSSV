@@ -6,6 +6,6 @@ The Core Standards and Specifications Vocabulary” (CSSV) will be used for the 
 
 The Core Standards and Specifications (CSSV) specified in this document has been developed taking in inputs from different sources, namely the works developed for the ISA2’s [CAMSS Action](https://joinup.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss/about), interested MS, the Semantic Interoperability Community ([SEMIC](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic)) action of the ISA2 Programme and IT consultants working for the European Commission.
 
-Copyright © 2012 European Union. This vocabulary is published under the ISA Open Metadata Licence v1.1, https://joinup.ec.europa.eu/licence/isa-open-metadata-licence-v11
+This vocabulary is published under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
 
 
