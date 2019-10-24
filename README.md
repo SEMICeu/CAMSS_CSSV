@@ -1,4 +1,4 @@
-# Core Standards and Specifications Vocabulary
+# The Core Standards and Specifications Vocabulary (CSSV)
 
 This is the issue tracker for the maintenance of the Core Standards and Specifications Vocabulary.
 
