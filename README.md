@@ -1,4 +1,4 @@
-# Core Standards and Specifications Voabulary
+# Core Standards and Specifications Vocabulary
 
 This is the issue tracker for the maintenance of the Core Standards and Specifications Vocabulary.
 
